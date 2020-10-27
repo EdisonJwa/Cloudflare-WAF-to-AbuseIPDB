@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - node
+  - 12
 git:
   depth: 2
   quiet: true
